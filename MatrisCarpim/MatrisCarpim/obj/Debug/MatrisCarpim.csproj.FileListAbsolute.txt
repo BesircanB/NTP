@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\MatrisCarpim.exe.config
+C:\Users\Beşir Can\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\MatrisCarpim.exe
+C:\Users\Beşir Can\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\MatrisCarpim.pdb
+C:\Users\Beşir Can\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\MatrisCarpim.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\MatrisCarpim.exe
+C:\Users\Beşir Can\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\MatrisCarpim.pdb

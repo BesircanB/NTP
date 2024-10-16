@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\AsalTop\AsalTop\bin\Debug\AsalTop.exe.config
+C:\Users\Beşir Can\source\repos\AsalTop\AsalTop\bin\Debug\AsalTop.exe
+C:\Users\Beşir Can\source\repos\AsalTop\AsalTop\bin\Debug\AsalTop.pdb
+C:\Users\Beşir Can\source\repos\AsalTop\AsalTop\obj\Debug\AsalTop.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\AsalTop\AsalTop\obj\Debug\AsalTop.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\AsalTop\AsalTop\obj\Debug\AsalTop.exe
+C:\Users\Beşir Can\source\repos\AsalTop\AsalTop\obj\Debug\AsalTop.pdb

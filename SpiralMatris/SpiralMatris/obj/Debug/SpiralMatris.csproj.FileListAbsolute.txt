@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\SpiralMatris\SpiralMatris\obj\Debug\SpiralMatris.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\SpiralMatris\SpiralMatris\bin\Debug\SpiralMatris.exe.config
+C:\Users\Beşir Can\source\repos\SpiralMatris\SpiralMatris\bin\Debug\SpiralMatris.exe
+C:\Users\Beşir Can\source\repos\SpiralMatris\SpiralMatris\bin\Debug\SpiralMatris.pdb
+C:\Users\Beşir Can\source\repos\SpiralMatris\SpiralMatris\obj\Debug\SpiralMatris.exe
+C:\Users\Beşir Can\source\repos\SpiralMatris\SpiralMatris\obj\Debug\SpiralMatris.pdb

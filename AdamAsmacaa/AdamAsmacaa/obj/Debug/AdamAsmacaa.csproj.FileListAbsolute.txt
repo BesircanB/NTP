@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\AdamAsmacaa\AdamAsmacaa\bin\Debug\AdamAsmacaa.exe.config
+C:\Users\Beşir Can\source\repos\AdamAsmacaa\AdamAsmacaa\bin\Debug\AdamAsmacaa.exe
+C:\Users\Beşir Can\source\repos\AdamAsmacaa\AdamAsmacaa\bin\Debug\AdamAsmacaa.pdb
+C:\Users\Beşir Can\source\repos\AdamAsmacaa\AdamAsmacaa\obj\Debug\AdamAsmacaa.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\AdamAsmacaa\AdamAsmacaa\obj\Debug\AdamAsmacaa.exe
+C:\Users\Beşir Can\source\repos\AdamAsmacaa\AdamAsmacaa\obj\Debug\AdamAsmacaa.pdb
