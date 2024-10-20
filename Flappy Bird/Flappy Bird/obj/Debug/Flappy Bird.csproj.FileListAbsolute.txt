@@ -1,0 +1,10 @@
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.FlappyBird.resources
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\Beşir Can\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
